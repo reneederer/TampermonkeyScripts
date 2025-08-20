@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         PureTube
+// @description  PureTube
 // @version      1.0
 // @run-at       document-start
 // @grant        none
