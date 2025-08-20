@@ -11,6 +11,7 @@
 // ==/UserScript==
 
 (function () {
+  alert('c')
   const GENERAL_HIDE = [
     'ytd-searchbox', 'yt-searchbox', '#search-form',
     'ytd-rich-item-renderer', 'ytd-grid-video-renderer', 'ytd-rich-grid-row',
