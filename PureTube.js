@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PureTube
 // @description  PureTube
-// @version      1.0
+// @version      1.1
 // @run-at       document-start
 // @grant        none
 // @updateURL https://raw.githubusercontent.com/reneederer/TampermonkeyScripts/master/PureTube.js
